@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Supan Shah | Senior Mobile App Developer</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <h1>Supan Shah</h1>
+  <h2>Senior Mobile App Developer</h2>
+  <p>React Native • iOS (Swift / SwiftUI) • Clean Architecture</p>
+
+  <div class="hero-links">
+    <a href="mailto:supan@7span.com">Email</a>
+    <a href="#">LinkedIn</a>
+    <a href="#">GitHub</a>
+  </div>
+</header>
+
+<!-- ABOUT -->
+<section class="section">
+  <h3>About Me</h3>
+  <p>
+    Results-oriented Mobile App Developer with 5+ years of experience building
+    scalable, high-performance iOS and React Native applications. Strong focus on
+    clean architecture, smooth UI/UX, native integrations, and production-ready
+    deployments on App Store and Play Store.
+  </p>
+</section>
+
+<!-- SKILLS -->
+<section class="section">
+  <h3>Technical Skills</h3>
+
+  <div class="skill-group">
+    <strong>Languages:</strong>
+    <span>Swift</span><span>JavaScript (ES6+)</span><span>TypeScript</span>
+  </div>
+
+  <div class="skill-group">
+    <strong>Mobile:</strong>
+    <span>React Native</span><span>iOS (UIKit)</span><span>SwiftUI</span><span>watchOS</span>
+  </div>
+
+  <div class="skill-group">
+    <strong>Architecture:</strong>
+    <span>MVC</span><span>MVVM</span><span>Clean Architecture</span>
+  </div>
+
+  <div class="skill-group">
+    <strong>State:</strong>
+    <span>Redux</span><span>Zustand</span><span>Context API</span>
+  </div>
+
+  <div class="skill-group">
+    <strong>Backend & Tools:</strong>
+    <span>Firebase</span><span>AWS Amplify</span><span>GraphQL</span><span>REST APIs</span>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section class="section">
+  <h3>Work Experience</h3>
+
+  <div class="card">
+    <h4>Sr. Software Engineer — 7Span</h4>
+    <small>Sep 2023 – Present</small>
+    <ul>
+      <li>Leading end-to-end mobile development for iOS and React Native apps</li>
+      <li>Designed scalable MVVM & modular architectures</li>
+      <li>Client collaboration, sprint planning, and app store releases</li>
+      <li>Mentoring junior developers</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h4>iOS / React Native Developer — Hyperlink Infosystem</h4>
+    <small>Jan 2021 – Sep 2023</small>
+    <ul>
+      <li>Built cross-platform apps using React Native & Swift</li>
+      <li>Integrated payments, real-time chat, and video calling</li>
+      <li>Performance optimization and custom animations</li>
+    </ul>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section class="section">
+  <h3>Featured Projects</h3>
+
+  <div class="card">
+    <h4>Livvy — Social Event Platform</h4>
+    <p>
+      End-to-end event lifecycle app with bookings, payments, QR ticketing,
+      real-time chat, maps, and Stripe Connect payouts.
+    </p>
+    <span class="tag">React Native</span>
+    <span class="tag">TypeScript</span>
+    <span class="tag">Socket.IO</span>
+    <span class="tag">Stripe</span>
+  </div>
+
+  <div class="card">
+    <h4>Kinnect Club — Private Family Storybook</h4>
+    <p>
+      iOS app using SwiftUI & AWS Amplify for private family storytelling,
+      media uploads, push notifications, and in-app purchases.
+    </p>
+    <span class="tag">SwiftUI</span>
+    <span class="tag">AWS Amplify</span>
+  </div>
+
+  <div class="card">
+    <h4>Ocean Platform — On-Demand Services</h4>
+    <p>
+      Marketplace with booking, live tracking, real-time chat,
+      provider & user apps, and multiple payment gateways.
+    </p>
+    <span class="tag">React Native</span>
+    <span class="tag">Maps</span>
+    <span class="tag">Payments</span>
+  </div>
+</section>
+
+<!-- EDUCATION -->
+<section class="section">
+  <h3>Education</h3>
+  <p><strong>MCA</strong> — Gujarat University (2018 – 2021)</p>
+</section>
+
+<!-- CONTACT -->
+<section class="section contact">
+  <h3>Contact</h3>
+  <p>📍 Ahmedabad, India</p>
+  <p>📧 supan@7span.com</p>
+  <p>📞 94083 90641</p>
+</section>
+
+<footer>
+  © 2026 Supan Shah • Mobile App Developer
+</footer>
+
+</body>
+</html>
