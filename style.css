@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #020617;
+  color: #e5e7eb;
+  line-height: 1.6;
+}
+
+.hero {
+  text-align: center;
+  padding: 70px 20px;
+}
+
+.hero h1 {
+  font-size: 44px;
+}
+
+.hero h2 {
+  color: #38bdf8;
+  font-weight: 500;
+}
+
+.hero-links a {
+  margin: 0 10px;
+  color: #94a3b8;
+  text-decoration: none;
+}
+
+.section {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.section h3 {
+  border-bottom: 2px solid #1e293b;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.skill-group span {
+  display: inline-block;
+  background: #1e293b;
+  padding: 6px 12px;
+  border-radius: 6px;
+  margin: 6px 6px 6px 0;
+}
+
+.card {
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 12px;
+  background: #0f172a;
+  padding: 4px 8px;
+  border-radius: 6px;
+  margin-right: 6px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #64748b;
+}
